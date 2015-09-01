@@ -16,4 +16,13 @@ function changeActivity(href) {
 
 function setupHistoryClicks() {
   addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("kfc"));
 }
