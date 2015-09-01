@@ -16,13 +16,13 @@ function changeActivity(href) {
 
 function setupHistoryClicks() {
   addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
-  addClicker(document.getElementById("kfc"));
+  addClicker(document.getElementById("dog"));
+  addClicker(document.getElementById("game"));
+  addClicker(document.getElementById("balltrap"));
+  addClicker(document.getElementById("jacuzzi"));
+  addClicker(document.getElementById("gospel"));
+  addClicker(document.getElementById("meal"));
+  addClicker(document.getElementById("phone"));
+  addClicker(document.getElementById("basketball"));
+  addClicker(document.getElementById("tv"));
 }
