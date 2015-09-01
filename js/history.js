@@ -1,7 +1,3 @@
-function setupHistoryClicks() {
-  addClicker(document.getElementById("kfc"));
-}
-
 function addClicker(link) {
   link.addEventListener("click", function(e) {
     changeActivity(link.href);
@@ -17,3 +13,7 @@ function changeActivity(href) {
              href.split("/").pop(),
            false);
   req.send(null);
+
+function setupHistoryClicks() {
+  addClicker(document.getElementById("kfc"));
+}
