@@ -9,7 +9,7 @@ function addClicker(link) {
 function changeActivity(href) {
   var req = new XMLHttpRequest();
   req.open("GET",
-           "http://diveintohtml5.info/examples/history/gallery/" +
+           "http://sl0b.github.io/yesweekend/" +
              href.split("/").pop(),
            false);
   req.send(null);
