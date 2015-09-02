@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +12,7 @@
     </head>
     
     <body>
-        
+
         <div class="container">
 
             <header class="row">
@@ -24,7 +24,7 @@
                     <img src="img/banniere.png" height="230px">
                 </div>
             </header>
-            
+
             <div class="row">
                 <div class="col-md-12">
                 <p>
@@ -32,7 +32,7 @@
                 </p>
                 </div>
             </div>
-           
+
             <div class="menu-image">
                 <div class="row">
                     <div class="col-md-1"></div>
@@ -94,7 +94,7 @@
                     <div class="col-md-1"></div>
                 </div>
             </div>
-            
+
             <div class="row">
                 <div class="col-md-12">
                     <article>
@@ -103,14 +103,14 @@
                     </article>
                 </div>
             </div>
-            
+
         </div>
-        
+
         <footer>
         </footer>
-        
+
         <script type="text/javascript" src="js/history.js"></script>
-        
+
     </body>
-    
+
 </html>
