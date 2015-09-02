@@ -10,15 +10,11 @@
 	</head>
 	<body>
 		<div class="container">
-			<header class="row">
-				<div class="col-sm-11">
-					</br>
-					<img src="img/logo.png">
-				</div>
-				<div class="col-sm-1">
-					<img src="img/banniere.png" height="230px">
-				</div>	
-			</header>
+
+			<?php
+				include("header.php")
+			?>
+			
 			<div class="row">
 				<div class="col-sm-offset-5 col-sm7">
 					</br>
@@ -35,7 +31,7 @@
 
 					<!-- Text input-->
 					<div class="form-group">
-  						<label class="col-md-3 control-label" for=""></label>  
+  						<label class="col-md-3 control-label" for=""></label>
   						<div class="col-md-6">
   						<input id="" name="" type="text" placeholder="Your name" class="form-control input-lg">
   						</div>
@@ -43,7 +39,7 @@
 
 					<!-- Text input-->
 					<div class="form-group">
-  						<label class="col-md-3 control-label" for=""></label>  
+  						<label class="col-md-3 control-label" for=""></label>
   						<div class="col-md-6">
   						<input id="" name="" type="text" placeholder="Your mail" class="form-control input-lg">
   						</div>

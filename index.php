@@ -10,20 +10,14 @@
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
         <link rel="stylesheet" href="css/style.css">
     </head>
-    
+
     <body>
 
         <div class="container">
 
-            <header class="row">
-                <div class="col-md-10">
-                    </br>
-                    <img src="img/logo.png">
-                </div>
-                <div class="col-md-2">
-                    <img src="img/banniere.png" height="230px">
-                </div>
-            </header>
+            <?php
+              include("header.php")
+            ?>
 
             <div class="row">
                 <div class="col-md-12">
