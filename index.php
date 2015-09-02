@@ -18,8 +18,7 @@
             <?php
               include("header.php")
             ?>
-            <div class="font-text">
-              <div class="row">
+              <div class="row font-text">
                   <div class="col-md-8">
                     <p class="text2">
                     Hello guys !</br></br>
@@ -27,7 +26,7 @@
                     </p>
                   </div>
               </div>
-            </div>
+
 
             <?php
               include("menu_image.php");

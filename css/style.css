@@ -1,5 +1,5 @@
 body {
-	background: rgb(248,229,173);
+	background: ;
 }
 header {
 	background: rgb(113,150,159);
@@ -18,7 +18,5 @@ header {
 	background-color: ;
 }
 .font-text {
-	background-image: url(../img/background1.png);
-	margin: 0 auto;
-	padding: 0 auto;
+	background: rgb(255,231,170);
 }
