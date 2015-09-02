@@ -18,13 +18,15 @@
             <?php
               include("header.php")
             ?>
-
-            <div class="row">
-                <div class="col-md-12">
-                <p>
-                    Hello guys, maybe you recognize me. I am Barack and behind my presidential's function of the United States of America I am a cool man. To prove it I show you my favorite activities of the weekend when I take a rest of being the most powerful man in the world. And if you're lucky your can win a weekend with me to the White House.
-                </p>
-                </div>
+            <div class="font-text">
+              <div class="row">
+                  <div class="col-md-8">
+                    <p class="text2">
+                    Hello guys !</br></br>
+                    Maybe you recognize me. I am Barack and behind my presidential's function of the United States of America I am a cool man. To prove it I show you my favorite activities of the weekend when I take a rest of being the most powerful man in the world. And if you're lucky your can win a weekend with me to the White House.
+                    </p>
+                  </div>
+              </div>
             </div>
 
             <?php
