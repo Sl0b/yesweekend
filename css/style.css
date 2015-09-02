@@ -7,3 +7,7 @@ header {
 .text1 {
 	font-size: 20px;
 }
+
+.block-thumbnails {
+    background-color: black;
+}
