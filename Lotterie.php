@@ -15,17 +15,16 @@
 				include("header.php")
 			?>
 
-			<div class="row">
-				<div class="col-sm-3">
+			<div class="row weekend">
+				<div class="col-sm-offset-1 col-sm-2">
+					<img src="img/noun_148918_cc copie.png" height="80px" class="pull-right">
 				</div>
+
 				<div class="col-sm-6" >
-					</br>
-					</br>
-					<h1>Win your weekend with Obama !</h1>
-					</br>
-					</br>
+					<h1 class="text-center">Win your weekend with Obama !</h1>
 				</div>
-				<div class="col-sm-3">
+				<div class="col-sm-2">
+					<img src="img/noun_148919_cc.png" height="80px" class="pull-left">
 				</div>
 			</div>
 			<form class="form-horizontal">
@@ -53,8 +52,8 @@
   						<div class="col-md-8">
   							<div class="checkbox">
     							<label for="-0">
-      							<input type="checkbox" name="" id="-0" value="1">
-      							<p class="text1">I certify not to be a terrorist, I do not plan an attack against the United States of America and have no connection with any terrorist organization. If not click <a href="https://www.nsa.gov">here</a></p>
+      							<input class="center-block" type="checkbox" name="" id="-0" value="1">
+      							<p class="text1 text-center">I certify not to be a terrorist, I do not plan an attack against the United States of America and have no connection with any terrorist organization. If not click <a href="https://www.nsa.gov">here</a></p>
     					</label>
 							</div>
   						</div>
