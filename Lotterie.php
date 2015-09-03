@@ -66,7 +66,7 @@
 
 					<div class="form-group">
   						<label class="col-md-5 control-label" for=""></label>
-							<a href="joke.php"><button id="" class="btn btn-success input-lg col-md-2">Join the lottery</button></a>
+							<a href="joke.php" class="btn btn-success input-lg col-md-2 " role="button">Join the lottery</a>
 					</div>
 
 				</fieldset>

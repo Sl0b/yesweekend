@@ -33,6 +33,9 @@ footer {
 	font-variant: small-caps;
 }
 
+.form-group a {
+	line-height: 32px;
+}
 .nav:hover {
 	color: rgb(217, 26, 34);
 }
