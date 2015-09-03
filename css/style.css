@@ -48,3 +48,15 @@ header {
 	margin-top: 30px;
 	margin-bottom: 20px;
 	}
+
+.fa-2 {
+	font-size: 30px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: rgb(248, 229, 173);
+}
+
+.fa-2:hover {
+	color: rgb(217, 26, 34);
+}
