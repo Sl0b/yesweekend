@@ -8,9 +8,13 @@
 </header>
 <div class="row header2">
   <div class="col-md-offset-10 col-md-1 header2">
-    <img src="img/noun_26636_cc.png" class="bouton-fb pull-right">
+    <a href="https://www.facebook.com/barackobama?fref=ts">
+      <img src="img/noun_26636_cc.png" class="bouton-fb pull-right">
+    </a>
   </div>
   <div class="col-md-1 header2">
-    <img src="img/noun_20940.png" class="bouton-tw center-block">
+    <a href="https://twitter.com/BarackObama">
+      <img src="img/noun_20940.png" class="bouton-tw center-block">
+    </a>
   </div>
 </div>
