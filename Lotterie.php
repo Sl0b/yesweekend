@@ -9,18 +9,18 @@
         <link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
-		<div class="container">
+		<div class="container-line">
 
 			<?php
 				include("header.php")
 			?>
-			
+
 			<div class="row">
-				<div class="col-sm-offset-5 col-sm7">
+				<div class="col-sm-offset-4 col-sm-4">
 					</br>
 					</br>
 					</br>
-					<h1>Join the lottery</h1>
+					<h1>Win your weekend with Obama !</h1>
 					</br>
 					</br>
 					</br>
@@ -31,24 +31,24 @@
 
 					<!-- Text input-->
 					<div class="form-group">
-  						<label class="col-md-3 control-label" for=""></label>
-  						<div class="col-md-6">
+  						<label class="col-md-4 control-label" for=""></label>
+  						<div class="col-md-4">
   						<input id="" name="" type="text" placeholder="Your name" class="form-control input-lg">
   						</div>
 					</div>
 
 					<!-- Text input-->
 					<div class="form-group">
-  						<label class="col-md-3 control-label" for=""></label>
-  						<div class="col-md-6">
+  						<label class="col-md-4 control-label" for=""></label>
+  						<div class="col-md-4">
   						<input id="" name="" type="text" placeholder="Your mail" class="form-control input-lg">
   						</div>
 					</div>
 
 					<!-- Multiple Checkboxes -->
 					<div class="form-group">
-  						<label class="col-md-2 control-label" for=""></label>
-  						<div class="col-md-8">
+  						<label class="col-md-4 control-label" for=""></label>
+  						<div class="col-md-4">
   							<div class="checkbox">
     							<label for="-0">
       							<input type="checkbox" name="" id="-0" value="1">
@@ -61,8 +61,8 @@
 					<!-- Button -->
 					<div class="form-group">
   						<label class="col-md-5 control-label" for=""></label>
-  						<div class="col-md-4">
-    					<button id="" name="" class="btn btn-success">Join the lottery</button>
+  						<div class="col-md-5">
+    					<button id="" name="" class="btn btn-success input-lg">Join the lottery</button>
   						</div>
 					</div>
 
