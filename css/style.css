@@ -94,3 +94,8 @@ footer {
 .fa-2:hover {
 	color: rgb(217, 26, 34);
 }
+
+article {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
