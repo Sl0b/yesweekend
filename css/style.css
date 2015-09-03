@@ -37,6 +37,20 @@ header {
     background: none;
 }
 
+.thumbnail .hover-test {
+    color: ghostwhite;
+    font-size: 70px;
+    font-style: oblique;
+    position: relative;
+    bottom: 90px;
+    left: 5px;
+    visibility: hidden;
+}
+
+.thumbnail:hover .hover-test {
+    visibility: visible;
+}
+
 .pull-right {
 	margin-right: -15px;
 }

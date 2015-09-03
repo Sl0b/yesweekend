@@ -4,6 +4,7 @@
         <div class="col-md-2">
             <div class="thumbnail" title="Come share my healthy breakfast">
                 <a id="kfc" href="samedi/kfc.html"><img src="img/kfc_thumbnail.jpg" alt="Come share my healthy breakfeast"></a>
+                <p class="hover-test">KFC</p>
             </div>
         </div>
         <div class="col-md-2">

@@ -13,6 +13,7 @@ function changeActivity(href) {
              href.split("/").pop(),
            false);
   req.send(null);
+}
 
 function setupHistoryClicks() {
   addClicker(document.getElementById("kfc"));
