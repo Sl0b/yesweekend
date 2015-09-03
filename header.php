@@ -7,14 +7,12 @@
       </div>
 </header>
 <div class="row header2">
-  <div class="col-md-offset-10 col-md-1 header2">
+  <div class="col-md-offset-11 col-md-1 header2">
     <a href="https://www.facebook.com/barackobama?fref=ts">
-      <img src="img/noun_26636_cc.png" class="bouton-fb pull-right">
+      <i class="fa fa-facebook-official fa-2"></i>
     </a>
-  </div>
-  <div class="col-md-1 header2">
     <a href="https://twitter.com/BarackObama">
-      <img src="img/noun_20940.png" class="bouton-tw center-block">
+      <i class="fa fa-twitter fa-2"></i>
     </a>
   </div>
 </div>
