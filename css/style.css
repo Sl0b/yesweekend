@@ -4,9 +4,15 @@ body {
 header {
 	background: rgb(113,150,159);
 	}
-
+footer {
+	background: rgb(113,150,159);
+	bottom: 0;
+}
 .header2 {
 	background-color: rgb(2,49,77);
+}
+.header3 {
+	background-color: rgb(217, 26, 34);
 }
 .text1 {
 	font-size: 20px;

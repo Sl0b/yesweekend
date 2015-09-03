@@ -24,7 +24,8 @@
                   <div class="col-md-8">
                     <p class="text2">
                     Hello guys !</br></br>
-                    Maybe you recognize me. I am Barack and behind my presidential's function of the United States of America I am a cool man. To prove it I show you my favorite activities of the weekend when I take a rest of being the most powerful man in the world. And if you're lucky your can win a weekend with me to the White House.
+                    Maybe you recognize me. I'm Barack and I'm not just the president of the United States of America, I'm a cool man too.
+                  </br>To prove it I show you my favorite activities of the weekend when I take a rest of being the most powerful man in the world. And if you're lucky your can win a weekend with me to the White House.
                     </p>
                   </div>
               </div>
@@ -43,12 +44,17 @@
                 </div>
             </div>
 
+            <?php
+              include("footer.php")
+            ?>
+
         </div>
 
-        <footer>
-        </footer>
+
 
         <script type="text/javascript" src="js/history.js"></script>
+
+
 
     </body>
 
