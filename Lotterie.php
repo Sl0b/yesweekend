@@ -8,6 +8,8 @@
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="css/style.css">
+				<style type="text/css">a:link{text-decoration:none}</style>
+
 	</head>
 	<body>
 		<div class="container">
@@ -64,7 +66,7 @@
 
 					<div class="form-group">
   						<label class="col-md-5 control-label" for=""></label>
-							<button id="" name="" class="btn btn-success input-lg col-md-2">Join the lottery</button>
+							<a href="joke.php"><button id="" class="btn btn-success input-lg col-md-2">Join the lottery</button></a>
 					</div>
 
 				</fieldset>

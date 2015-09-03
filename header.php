@@ -7,7 +7,10 @@
       </div>
 </header>
 <div class="row header2">
-  <div class="col-md-offset-11 col-md-1 header2">
+  <div class="col-md-11">
+  <a href="http://localhost:8888/yesweekend/lotterie.php" <span class="nav pull-right">Join the Lottery</span>
+  </div>
+  <div class=" col-md-1 header2">
     <a href="https://www.facebook.com/barackobama?fref=ts">
       <i class="fa fa-facebook-official fa-2"></i>
     </a>

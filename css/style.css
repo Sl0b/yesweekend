@@ -1,5 +1,5 @@
-body {
-	background: ;
+.joke {
+	background: url(../img/joke.jpg);
 }
 header {
 	background: rgb(113,150,159);
@@ -18,6 +18,24 @@ footer {
 	font-size: 20px;
 }
 
+.tjoke {
+	margin-top: 400px;
+	color: white;
+	font-size: 100px;
+	font-family: impact;
+	font-variant: small-caps;
+}
+
+.nav {
+	color: rgb(248, 229, 173);
+	font-size: 30px;
+	font-family: impact;
+	font-variant: small-caps;
+}
+
+.nav:hover {
+	color: rgb(217, 26, 34);
+}
 .text2 {
 	font-size: 25px;
 	margin-top: 60px;
