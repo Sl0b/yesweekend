@@ -27,23 +27,30 @@ header {
 }
 
 .menu-image {
-    margin-top: 80px;
+    margin-top: 50px;
 	background-color: #ecf0f1;
+    height: 390px;
 }
 
 .thumbnail {
+    height: 158px;
+    width: 158px;
     padding-top: 30px;
     border: none;
     background: none;
 }
 
 .thumbnail .hover-test {
-    color: ghostwhite;
-    font-size: 70px;
-    font-style: oblique;
     position: relative;
-    bottom: 90px;
-    left: 5px;
+    height: 150px;
+    width: 150px;
+    bottom: 150px;
+    color: ghostwhite;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 23px;
+    font-family: Impact;
+    text-align: center;
+    line-height: 150px;
     visibility: hidden;
 }
 
