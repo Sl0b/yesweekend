@@ -1,9 +1,17 @@
 body {
-	background: ;
+    background: ;
 }
+
 header {
 	background: rgb(113,150,159);
-	}
+}
+
+#header__background {
+    margin: 0 auto;
+    background: rgb(95, 129, 137);
+    height: 230px;
+}
+
 .text1 {
 	font-size: 20px;
 }
@@ -17,6 +25,7 @@ header {
 .menu-image {
 	background-color: ;
 }
+
 .font-text {
 	background: rgb(255,231,170);
 }
