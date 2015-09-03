@@ -8,7 +8,7 @@
 </header>
 <div class="row header2">
   <div class="col-md-11">
-  <a href="http://localhost:8888/yesweekend/lotterie.php" <span class="nav pull-right">Join the Lottery</span>
+  <a href="lotterie.php" <span class="nav pull-right">Join the Lottery</span>
   </div>
   <div class=" col-md-1 header2">
     <a href="https://www.facebook.com/barackobama?fref=ts">
