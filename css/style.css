@@ -4,6 +4,10 @@ body {
 header {
 	background: rgb(113,150,159);
 	}
+
+.header2 {
+	background-color: rgb(2,49,77);
+}
 .text1 {
 	font-size: 20px;
 }
@@ -24,5 +28,15 @@ header {
 
 .pull-right {
 	margin-right: -15px;
+}
 
+.bouton-fb {
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.bouton-tw {
+		height: 35px;
+		margin-top: 5px;
 }

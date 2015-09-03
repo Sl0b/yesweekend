@@ -16,7 +16,7 @@
 			?>
 
 			<div class="row">
-				<div class="col-sm-offset-4 col-sm-4">
+				<div class="col-sm-offset-4 col-sm-4" >
 					</br>
 					</br>
 					</br>
@@ -59,11 +59,10 @@
 					</div>
 
 					<!-- Button -->
+
 					<div class="form-group">
   						<label class="col-md-5 control-label" for=""></label>
-  						<div class="col-md-5">
-    					<button id="" name="" class="btn btn-success input-lg">Join the lottery</button>
-  						</div>
+							<button id="" name="" class="btn btn-success input-lg col-md-2">Join the lottery</button>
 					</div>
 
 				</fieldset>
