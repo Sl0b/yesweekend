@@ -1,9 +1,9 @@
 <header class="row">
     <div class="col-md-10">
-        </br></br></br></br>
-        <img src="img/logo.png">
+
+        <img src="img/logo.png" class="pull-middle">
     </div>
     <div class="col-md-2">
-        <img src="img/banniere.png" height="345px">
+        <img src="img/banniere.png" height="180px" class="pull-right">
     </div>
 </header>

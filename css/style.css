@@ -21,6 +21,8 @@ header {
 	background: rgb(255,231,170);
 
 }
-.ticket {
-	margin-left: 15px;
+
+.pull-right {
+	margin-right: -15px;
+
 }
