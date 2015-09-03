@@ -14,12 +14,20 @@ header {
 
 .text2 {
 	font-size: 25px;
-	margin-top: 15px;
+	margin-top: 60px;
 	font-family: impact;
+    text-align: left;
 }
 
 .menu-image {
-	background-color: ;
+    margin-top: 80px;
+	background-color: #ecf0f1;
+}
+
+.thumbnail {
+    padding-top: 30px;
+    border: none;
+    background: none;
 }
 
 .pull-right {

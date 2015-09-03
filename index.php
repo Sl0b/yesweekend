@@ -19,6 +19,7 @@
               include("header.php")
             ?>
               <div class="row font-text">
+                  <img src="img/smile2.jpg" class="img-circle col-md-4">
                   <div class="col-md-8">
                     <p class="text2">
                     Hello guys !</br></br>
