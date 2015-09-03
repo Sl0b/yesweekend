@@ -12,7 +12,7 @@ header {
 	font-size: 20px;
 }
 
-/*div*/ .text2 {
+.text2 {
 	font-size: 25px;
 	margin-top: 15px;
 	font-family: impact;
@@ -20,10 +20,6 @@ header {
 
 .menu-image {
 	background-color: ;
-}
-.font-text {
-	background: rgb(255,231,170);
-
 }
 
 .pull-right {
@@ -37,6 +33,6 @@ header {
 }
 
 .bouton-tw {
-		height: 35px;
+		height: 39px;
 		margin-top: 5px;
 }

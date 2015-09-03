@@ -16,14 +16,16 @@
 			?>
 
 			<div class="row">
-				<div class="col-sm-offset-4 col-sm-4" >
-					</br>
+				<div class="col-sm-3">
+				</div>
+				<div class="col-sm-6" >
 					</br>
 					</br>
 					<h1>Win your weekend with Obama !</h1>
 					</br>
 					</br>
-					</br>
+				</div>
+				<div class="col-sm-3">
 				</div>
 			</div>
 			<form class="form-horizontal">
@@ -47,8 +49,8 @@
 
 					<!-- Multiple Checkboxes -->
 					<div class="form-group">
-  						<label class="col-md-4 control-label" for=""></label>
-  						<div class="col-md-4">
+  						<label class="col-md-2 control-label" for=""></label>
+  						<div class="col-md-8">
   							<div class="checkbox">
     							<label for="-0">
       							<input type="checkbox" name="" id="-0" value="1">
